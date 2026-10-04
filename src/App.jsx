@@ -1,3 +1,4 @@
+import ItemMaster from "./components/ItemMaster";
 import { useState } from 'react'
 
 import './App.css'
@@ -3730,13 +3731,13 @@ function App() {
 
 
 
-              <h2>RAPCMS</h2>
+              <h2>GK SOFTWARES AND SOLUTIONS</h2>
 
 
 
               <p>
 
-                Ration Shop Management System
+                RAPCMS
 
               </p>
 
@@ -3830,7 +3831,7 @@ function App() {
 
                   <h3>
 
-                    14 Ration Shops
+                    19 Ration Shops
 
                   </h3>
 
@@ -4179,6 +4180,7 @@ function App() {
 
 
                 <p>
+                  call me at - 6379412816
 
                   For new user access or support
 
@@ -4210,7 +4212,7 @@ function App() {
 
               <p>
 
-                Ration Shop Management System
+                GK SOFTWARES & SOLUTIONS
 
               </p>
 
